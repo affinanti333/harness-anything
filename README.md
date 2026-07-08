@@ -1,4 +1,4 @@
-  # cli-anything-wps
+    # cli-anything-wps
 
 <h3 align="center">AI Agent 工具集 —— 办公 + 设计 + 学术 全栈操控</h3>
 
