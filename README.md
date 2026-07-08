@@ -17,7 +17,7 @@
 47 个 CLI 命令，通过 COM 自动化接口操控 WPS Office 或 Microsoft Office（Word/Excel/PowerPoint）。
 
 ```bash
-pip install git+https://github.com/yb2460/cli-anything-wps.git
+pip iznstall git+https://github.com/yb2460/cli-anything-wps.git
 ```
 
 - **Writer**：段落/标题/列表/表格/图片/查找替换/字体样式
